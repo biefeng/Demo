@@ -15,8 +15,6 @@
     <select id="getAll" resultType="User">
         SELECT
             id,
-
-
             nickname
         FROM  u_user
         ORDER BY id

@@ -6,10 +6,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.annotation.Resource;
+import java.util.Map;
 
 @RequestMapping("/test")
 @Controller
-public class TestJsonController {
+public class TestJsonController extends BaseController {
 
     @Resource
     TestJsonService service;
@@ -20,5 +21,12 @@ public class TestJsonController {
 
         String result = service.getInfo(11);
         return result;
+    }
+
+    @RequestMapping("/listAllUer")
+    @ResponseBody
+    public Map<String, Object> listAllUser() {
+
+        return resultMap;
     }
 }
