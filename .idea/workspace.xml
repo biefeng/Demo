@@ -6,31 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7bdd16c-14ec-4541-a6eb-18c7e80bf706" name="Default" comment="version 1">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/pages/test/letAndConst.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/pages/user/editUser.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/pages/user/listUser.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/script/bootstrap/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/script/bootstrap/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/script/bootstrap/npm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/style/bootstrap/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Demo_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Demo_war_exploded.xml" />
+    <list default="true" id="b7bdd16c-14ec-4541-a6eb-18c7e80bf706" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Demo.iml" afterPath="$PROJECT_DIR$/Demo.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/biefeng/demo/controller/BaseController.java" afterPath="$PROJECT_DIR$/src/main/java/com/biefeng/demo/controller/BaseController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/biefeng/demo/controller/TestJsonController.java" afterPath="$PROJECT_DIR$/src/main/java/com/biefeng/demo/controller/TestJsonController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resource/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resource/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/js.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/pages/test/js.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/biefeng/demo/controller/TestJsonController.class" afterPath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/biefeng/demo/controller/TestJsonController.class" />
-      <change beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/biefeng/demo/moudles/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/biefeng/demo/moudles/mapper/UserMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/biefeng/demo/service/TestJsonService.class" afterPath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/biefeng/demo/service/TestJsonService.class" />
-      <change beforePath="$PROJECT_DIR$/target/Demo/pages/js.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/biefeng/demo/controller/TestJsonController.class" afterPath="$PROJECT_DIR$/target/classes/com/biefeng/demo/controller/TestJsonController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/biefeng/demo/moudles/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/target/classes/com/biefeng/demo/moudles/mapper/UserMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/biefeng/demo/service/TestJsonService.class" afterPath="$PROJECT_DIR$/target/classes/com/biefeng/demo/service/TestJsonService.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -135,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/script/jquery/jquery-3.3.1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="282">
-              <caret line="433" column="43" lean-forward="true" selection-start-line="433" selection-start-column="43" selection-end-line="433" selection-end-column="43" />
+              <caret line="433" column="43" lean-forward="false" selection-start-line="433" selection-start-column="43" selection-end-line="433" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -895,7 +872,7 @@
       <workItem from="1526027812588" duration="3917000" />
       <workItem from="1526292634270" duration="8628000" />
       <workItem from="1526347568940" duration="807000" />
-      <workItem from="1526351045510" duration="7216000" />
+      <workItem from="1526351045510" duration="7423000" />
     </task>
     <task id="LOCAL-00001" summary="version 1">
       <created>1526025943992</created>
@@ -904,7 +881,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526025943992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="version 1">
+      <created>1526378577074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526378577074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -940,7 +924,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82737000" />
+    <option name="totallyTimeSpent" value="82944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -1506,7 +1490,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/script/jquery/jquery-3.3.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
-          <caret line="433" column="43" lean-forward="true" selection-start-line="433" selection-start-column="43" selection-end-line="433" selection-end-column="43" />
+          <caret line="433" column="43" lean-forward="false" selection-start-line="433" selection-start-column="43" selection-end-line="433" selection-end-column="43" />
           <folding />
         </state>
       </provider>
