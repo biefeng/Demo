@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script>
+    //for循环有一个特殊的
+    for(let a=0;a<3;a++){
+        let a="aaaa";
+        console.log(a);
+    }
+
+    var a=[];
+    for(let i=0;i<10;i++){
+        a[i]=function(){
+            console.log(i);
+        }
+    }
+    a[6]();
+    var b=[];
+    for(var j=0;j<10;j++){
+        b[j]=function(){
+            console.log(j);
+        }
+    }
+    b[6]();
+</script>
+<body>
+
+</body>
+</html>

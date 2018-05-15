@@ -13,9 +13,9 @@ public class BaseController {
 
     protected int pageSize;
 
-    private static final int DEFAULT_PAGE_SIZE = 10;
+    protected static final int DEFAULT_PAGE_SIZE = 10;
 
-    private static final int DEFAULT_PAGE_NO = 1;
+    protected static final int DEFAULT_PAGE_NO = 1;
 
     public static final String URL_404 = "/404.html";
 
